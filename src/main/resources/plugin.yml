@@ -1,0 +1,7 @@
+name: TutorialPlugin
+main: com.weflyspitfires.testplugin.TutorialPlugin
+version: 0.0.1
+commands:
+  foo:
+    description: This is a demo command.
+    usage: /foo [player]
